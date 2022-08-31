@@ -1,7 +1,7 @@
 # Power-BI
 This repository is a standalone comprehensive resource for Microsoft Power BI data analytics tool.
 
-This repository is a LIVE resource for Power BI learning.
+This repository is a LIVE resource (SEE ACTIVITY from *https://skyline.github.com/NikhilChandraSarkar/2022*) for Power BI learning.
 
 - 👋 Hi, I’m Dr Nikhil Chandra Sarkar. I obtained my Doctor of Philosophy (PhD) in data-driven modelling of traffic flow from the school of Civil Engineering and Built Environment at Queensland University of Technology (QUT), Australia in July 2019. I am a founder of Data Simulation Research Lab (DSRLab) at Sydney to provide professional services and scientific research in database development, data analytics, modelling and simulation.
 - Everyday I use different data analytics tools including **SAS Viya, Tableau, Power BI, R and Python**.
